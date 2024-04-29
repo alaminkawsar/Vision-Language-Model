@@ -1,1 +1,1 @@
-# Vision-Large-Language-Model
+# Vision-Language-Model
