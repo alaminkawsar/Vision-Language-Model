@@ -3,4 +3,5 @@ Some vision langauage model you must know if you are interested in multi-modal A
 
 | Model                                                                                | Variant | Parameters | Papers/Github |
 | ------------------------------------------------------------------------------------ | --------------------- | --------------------  | ------------------ |
-| [CogVLM](https://github.com/THUDM/CogVLM) | CogAgent                   | 7B                |      (Github)[https://github.com/THUDM/CogVLM] | 
+| CogVLM | [CogVLM](https://github.com/THUDM/CogVLM)                  | 17B                |      [Github](https://github.com/THUDM/CogVLM) | [Paper](https://arxiv.org/abs/2311.03079) |
+        | [CogVLM](https://github.com/THUDM/CogVLM)                  | 17B                |      [Github](https://github.com/THUDM/CogVLM) | [Paper](https://arxiv.org/abs/2311.03079) |
