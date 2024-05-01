@@ -6,9 +6,12 @@ Some vision langauage model you must know if you are interested in multi-modal A
         <tr>
             <th>Model</th>
             <th>Variant</th>
-            <th>Parameters</th>
+            <th>Params</th>
             <th>Papers/Github</th>
             <th>Demo</th>
+            <th>Last Release</th>
+            <th>Organization</th>
+            <th>Description</th>
         </tr>
     </thead>
     <tbody>
@@ -37,6 +40,19 @@ Some vision langauage model you must know if you are interested in multi-modal A
             <td>34B</td>
             <td><a href="https://github.com/haotian-liu/LLaVA">Github</a> / <a href="https://arxiv.org/pdf/2310.03744">Paper</a></td>
             <td><a href="https://llava.hliu.cc/">Demo</a></td>
+        </tr>
+        <tr>
+            <td rowspan=2>Qwen-VL</td>
+            <td><a href="https://github.com/QwenLM/Qwen-VL#qwen-vl-plus">Qwen-VL-Plus</a></td>
+            <td>7B</td>
+            <td><a href="https://github.com/QwenLM/Qwen-VL#qwen-vl-plus">Github</a> / <a href="https://arxiv.org/abs/2308.12966">Paper</a></td>
+            <td><a href="https://huggingface.co/spaces/Qwen/Qwen-VL-Plus">Demo</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/haotian-liu/LLaVA">Qwen-VL-MAX</a></td>
+            <td>7B</td>
+            <td><a href="https://github.com/QwenLM/Qwen-VL">Github</a> / <a href="https://arxiv.org/abs/2308.12966">Paper</a></td>
+            <td><a href="https://huggingface.co/spaces/Qwen/Qwen-VL-Max">Demo</a></td>
         </tr>
   </tbody>
 </table>
