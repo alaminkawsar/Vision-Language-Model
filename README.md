@@ -1,5 +1,5 @@
 # Vision-Language-Model
-Some vision langauage model you must know if you are interested in multi-modal AI. <br>
+Some vision langauage model you must know if you are interested in multi-modal AI. (*continue*)<br>
 
 <table>
     <thead>
@@ -93,5 +93,14 @@ Some vision langauage model you must know if you are interested in multi-modal A
             <td>2024.01.18</td>
             <td>Alibaba Cloud</td>
         </tr>
+        <tr>
+            <td rowspan=1>PaliGemma</td>
+            <td><a href="https://ai.google.dev/gemma/docs/paligemma">paligemma-3b-mix</a></td>
+            <td>3B</td>
+            <td><a href="">Github</a> / <a href="">Paper</a></td>
+            <td><a href="">Demo</a></td>
+            <td></td>
+        </tr>
   </tbody>
 </table>
+
