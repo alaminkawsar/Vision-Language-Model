@@ -16,6 +16,28 @@ Some vision langauage model you must know if you are interested in multi-modal A
     </thead>
     <tbody>
         <tr>
+            <td rowspan=3>Idefics</td>
+            <td><a href="https://huggingface.co/HuggingFaceM4/idefics-9b">idefics-9b</a></td>
+            <td>9B</td>
+            <td><a href="">Github</a> / <a href="">Paper</a></td>
+            <td><a href="">Demo</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://huggingface.co/HuggingFaceM4/idefics-80b">idefics-80b</a></td>
+            <td>80B</td>
+            <td><a href="">Github</a> / <a href="">Paper</a></td>
+            <td><a href="">Demo</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://huggingface.co/HuggingFaceM4/idefics2-8b">idefics-2</a></td>
+            <td>8B</td>
+            <td><a href="">Github</a> / <a href="">Paper</a></td>
+            <td><a href="">Demo</a></td>
+            <td></td>
+        </tr>
+        <tr>
             <td rowspan=2>CogVLM</td>
             <td><a href="https://github.com/THUDM/CogVLM">CogVLM</a></td>
             <td>17B</td>
@@ -47,7 +69,7 @@ Some vision langauage model you must know if you are interested in multi-modal A
             <td></td>
         </tr>
         <tr>
-            <td rowspan=2>Qwen-VL</td>
+            <td rowspan=3>Qwen-VL</td>
             <td><a href="https://github.com/QwenLM/Qwen-VL#qwen-vl-plus">Qwen-VL-Plus</a></td>
             <td>7B</td>
             <td><a href="https://github.com/QwenLM/Qwen-VL#qwen-vl-plus">Github</a> / <a href="https://arxiv.org/abs/2308.12966">Paper</a></td>
@@ -60,6 +82,14 @@ Some vision langauage model you must know if you are interested in multi-modal A
             <td>7B</td>
             <td><a href="https://github.com/QwenLM/Qwen-VL">Github</a> / <a href="https://arxiv.org/abs/2308.12966">Paper</a></td>
             <td><a href="https://huggingface.co/spaces/Qwen/Qwen-VL-Max">Demo</a></td>
+            <td>2024.01.18</td>
+            <td>Alibaba Cloud</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/QwenLM/Qwen-VL">Qwen-VL-Chat</a></td>
+            <td>7B</td>
+            <td><a href="https://github.com/QwenLM/Qwen-VL">Github</a> / <a href="https://arxiv.org/abs/2308.12966">Paper</a></td>
+            <td><a href="https://huggingface.co/Qwen/Qwen-VL-Chat">Demo</a></td>
             <td>2024.01.18</td>
             <td>Alibaba Cloud</td>
         </tr>
